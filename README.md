@@ -8,7 +8,8 @@
 &nbsp;
 ## 01 Configure the form
 * Set name, text, dimensions, icon etc.
-* Add three button and configure them.
+* Add three buttons and configure them.
 
-
- 
+&nbsp;
+## 02 Create the Elephant class
+* Create the Elephant class with two fields and one method.
