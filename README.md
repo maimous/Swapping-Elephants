@@ -13,3 +13,8 @@
 &nbsp;
 ## 02 Create the Elephant class
 * Create the Elephant class with two fields and one method.
+
+&nbsp;
+## 03 Create two Elephant instances
+* Create two Elephant instances and initialize them.
+* Get each button to call the elephant's *WhoAmI* method.

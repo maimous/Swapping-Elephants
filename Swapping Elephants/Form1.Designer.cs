@@ -42,6 +42,7 @@
             this.LloydsButton.TabIndex = 0;
             this.LloydsButton.Text = "Lloyd";
             this.LloydsButton.UseVisualStyleBackColor = true;
+            this.LloydsButton.Click += new System.EventHandler(this.LloydsButton_Click);
             // 
             // LucindasButton
             // 
@@ -51,6 +52,7 @@
             this.LucindasButton.TabIndex = 1;
             this.LucindasButton.Text = "Lucinda";
             this.LucindasButton.UseVisualStyleBackColor = true;
+            this.LucindasButton.Click += new System.EventHandler(this.LucindasButton_Click);
             // 
             // swapButton
             // 
