@@ -18,3 +18,7 @@
 ## 03 Create two Elephant instances
 * Create two Elephant instances and initialize them.
 * Get each button to call the elephant's *WhoAmI* method.
+
+&nbsp;
+## 04 Create the swapping method
+* Make the Swap button exchange the two references, so that when you click it, the Lloyd and  Lucinda variables swap objects and a “Objects swapped” box is displayed.  

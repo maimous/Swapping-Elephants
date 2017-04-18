@@ -36,5 +36,14 @@ namespace Swapping_Elephants
         {
             lucinda.WhoAmI();
         }
+
+        private void swapButton_Click(object sender, EventArgs e)
+        {
+            Elephant holder;
+            holder = lloyd;
+            lloyd = lucinda;
+            lucinda = holder;
+            MessageBox.Show("Objects have been swapped!");
+        }
     }
 }

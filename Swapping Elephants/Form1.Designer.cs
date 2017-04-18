@@ -62,6 +62,7 @@
             this.swapButton.TabIndex = 2;
             this.swapButton.Text = "Swap!";
             this.swapButton.UseVisualStyleBackColor = true;
+            this.swapButton.Click += new System.EventHandler(this.swapButton_Click);
             // 
             // Form1
             // 
